@@ -1,0 +1,15 @@
+ng add @capacitor/angular
+ng build --c=production
+npm i @capacitor/android
+npm cap init
+npx cap add android
+
+# To build static assets
+ng build
+# To sync them to native application directory
+npx cap sync
+
+npx cap open android
+
+#i18n
+ng extract-i18n --output-path src/locale
