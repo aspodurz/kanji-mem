@@ -1,0 +1,1076 @@
+{
+	"elements": [
+		{
+			"id": 0,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E7%93%9C.html",
+			"kanji": "瓜",
+			"pronounces": [
+				"<b>uri</b>",
+				"<b>KA</b>"
+			],
+			"translations": [
+				"melone",
+				"cucurbitacea"
+			]
+		},
+		{
+			"id": 5,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E7%8E%8B.html",
+			"kanji": "王",
+			"pronounces": [
+				"<b>Ō</b>"
+			],
+			"translations": [
+				"re",
+				"principe"
+			]
+		},
+		{
+			"id": 6,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E9%9F%B3.html",
+			"kanji": "音",
+			"pronounces": [
+				"<b>oto</b>",
+				"<b>ne</b>",
+				"<b>ON</b>",
+				"<b>IN</b>"
+			],
+			"translations": [
+				"musica",
+				"suono",
+				"rumore"
+			]
+		},
+		{
+			"id": 27,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E7%B3%B8.html",
+			"kanji": "糸",
+			"pronounces": [
+				"<b>ito</b>",
+				"<b>SHI</b>"
+			],
+			"translations": [
+				"filo"
+			]
+		},
+		{
+			"id": 41,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E6%AD%A3.html",
+			"kanji": "正",
+			"pronounces": [
+				"<b>masa</b>",
+				"<b>tada</b><i>shii</i>",
+				"<b>SEI</b>",
+				"<b>SHŌ</b>"
+			],
+			"translations": [
+				"corretto",
+				"giusto"
+			]
+		},
+		{
+			"id": 52,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E6%9D%91.html",
+			"kanji": "村",
+			"pronounces": [
+				"<b>mura</b>",
+				"<b>SON</b>"
+			],
+			"translations": [
+				"villaggio"
+			]
+		},
+		{
+			"id": 56,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E8%99%AB.html",
+			"kanji": "虫",
+			"pronounces": [
+				"<b>mushi</b>",
+				"<b>CHŪ</b>"
+			],
+			"translations": [
+				"insetto",
+				"verme",
+				"lombrico"
+			]
+		},
+		{
+			"id": 68,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E6%96%87.html",
+			"kanji": "文",
+			"pronounces": [
+				"<b>fumi</b>",
+				"<b>BUN</b>",
+				"<b>MON</b>"
+			],
+			"translations": [
+				"testo",
+				"scrittura"
+			]
+		},
+		{
+			"id": 77,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E5%BC%95.html",
+			"kanji": "引",
+			"pronounces": [
+				"<b>hi</b><i>ku</i>",
+				"<b>IN</b>"
+			],
+			"translations": [
+				"tirare",
+				"trainare"
+			]
+		},
+		{
+			"id": 81,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E7%A7%91.html",
+			"kanji": "科",
+			"pronounces": [
+				"<b>KA</b>"
+			],
+			"translations": [
+				"corso (didattica)",
+				"sezione"
+			]
+		},
+		{
+			"id": 84,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E6%AD%8C.html",
+			"kanji": "歌",
+			"pronounces": [
+				"<b>uta</b>",
+				"<b>uta</b><i>u</i>",
+				"<b>KA</b>"
+			],
+			"translations": [
+				"cantare",
+				"canzone"
+			]
+		},
+		{
+			"id": 85,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E7%94%BB.html",
+			"kanji": "画",
+			"pronounces": [
+				"<b>KAKU</b>",
+				"<b>GA</b>"
+			],
+			"translations": [
+				"immagine",
+				"dipinto"
+			]
+		},
+		{
+			"id": 86,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E5%9B%9E.html",
+			"kanji": "回",
+			"pronounces": [
+				"<b>mawa</b><i>ru</i>",
+				"<b></b>",
+				"KAI"
+			],
+			"translations": [
+				"girare",
+				"ruotare"
+			]
+		},
+		{
+			"id": 90,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E8%B2%9D.html",
+			"kanji": "貝",
+			"pronounces": [
+				"<b>kai</b>"
+			],
+			"translations": [
+				"mollusco",
+				"mitilo"
+			]
+		},
+		{
+			"id": 94,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E6%B1%BD.html",
+			"kanji": "汽",
+			"pronounces": [
+				"<b>KI</b>"
+			],
+			"translations": [
+				"vapore"
+			]
+		},
+		{
+			"id": 95,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E8%A8%98.html",
+			"kanji": "記",
+			"pronounces": [
+				"<b>KI</b>"
+			],
+			"translations": [
+				"rapporto",
+				"cronaca"
+			]
+		},
+		{
+			"id": 97,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E7%89%9B.html",
+			"kanji": "牛",
+			"pronounces": [
+				"<b>ushi</b>",
+				"<b>GYŪ</b>"
+			],
+			"translations": [
+				"vacca",
+				"toro"
+			]
+		},
+		{
+			"id": 100,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E5%BC%B7.html",
+			"kanji": "強",
+			"pronounces": [
+				"<b>tsuyo</b><i>i</i>",
+				"<b>shi</b><i>iru</i>",
+				"<b>KYŌ</b>",
+				"<b>GŌ</b>"
+			],
+			"translations": [
+				"forte"
+			]
+		},
+		{
+			"id": 101,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E6%95%99.html",
+			"kanji": "教",
+			"pronounces": [
+				"<b>oshi</b><i>eru</i>",
+				"<b>KYŌ</b>"
+			],
+			"translations": [
+				"insegnare"
+			]
+		},
+		{
+			"id": 102,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E7%8E%89.html",
+			"kanji": "玉",
+			"pronounces": [
+				"<b>tama</b>",
+				"<b>GYOKU</b>"
+			],
+			"translations": [
+				"sfera",
+				"gioiello"
+			]
+		},
+		{
+			"id": 104,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E5%BD%A2.html",
+			"kanji": "形",
+			"pronounces": [
+				"<b>katachi</b>",
+				"<b>kata</b>",
+				"<b>KEI</b>",
+				"<b>GYŌ</b>"
+			],
+			"translations": [
+				"forma",
+				"modello"
+			]
+		},
+		{
+			"id": 105,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E8%A8%88.html",
+			"kanji": "計",
+			"pronounces": [
+				"<b>haka</b><i>ru</i>",
+				"<b>KEI</b>"
+			],
+			"translations": [
+				"misurare"
+			]
+		},
+		{
+			"id": 106,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E5%85%83.html",
+			"kanji": "元",
+			"pronounces": [
+				"<b>moto</b>",
+				"<b>GEN</b>",
+				"<b>GAN</b>"
+			],
+			"translations": [
+				"origine",
+				"fonte"
+			]
+		},
+		{
+			"id": 107,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E5%8E%9F.html",
+			"kanji": "原",
+			"pronounces": [
+				"<b>hara</b>",
+				"<b>GEN</b>"
+			],
+			"translations": [
+				"campo",
+				"pianura",
+				"originale"
+			]
+		},
+		{
+			"id": 108,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E6%88%B8.html",
+			"kanji": "戸",
+			"pronounces": [
+				"<b>to</b>",
+				"<b>KO</b>"
+			],
+			"translations": [
+				"porta"
+			]
+		},
+		{
+			"id": 113,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E5%B7%A5.html",
+			"kanji": "工",
+			"pronounces": [
+				"<b>KŌ</b>",
+				"<b>KU</b>"
+			],
+			"translations": [
+				"costruzione"
+			]
+		},
+		{
+			"id": 114,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E5%BA%83.html",
+			"kanji": "広",
+			"pronounces": [
+				"<b>hiro</b><i>i</i>",
+				"<b>KŌ</b>"
+			],
+			"translations": [
+				"ampio",
+				"spazioso"
+			]
+		},
+		{
+			"id": 115,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E4%BA%A4.html",
+			"kanji": "交",
+			"pronounces": [
+				"<b>ma</b><i>jiru</i>",
+				"<b>ka</b><i>wasu</i>",
+				"<b>KŌ</b>"
+			],
+			"translations": [
+				"mix",
+				"scambio"
+			]
+		},
+		{
+			"id": 117,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E8%80%83.html",
+			"kanji": "考",
+			"pronounces": [
+				"<b>kanga</b><i>eru</i>",
+				"<b>KŌ</b>"
+			],
+			"translations": [
+				"pensare",
+				"considerare"
+			]
+		},
+		{
+			"id": 122,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E8%B0%B7.html",
+			"kanji": "谷",
+			"pronounces": [
+				"<b>tani</b>",
+				"<b>ya</b>",
+				"<b>KOKU</b>"
+			],
+			"translations": [
+				"valle"
+			]
+		},
+		{
+			"id": 129,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E6%AD%A2.html",
+			"kanji": "止",
+			"pronounces": [
+				"<b>to</b><i>meru</i>",
+				"<b>SHI</b>"
+			],
+			"translations": [
+				"stop",
+				"fermarsi"
+			]
+		},
+		{
+			"id": 136,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E5%AE%A4.html",
+			"kanji": "室",
+			"pronounces": [
+				"<b>muro</b>",
+				"<b>SHITSU</b>"
+			],
+			"translations": [
+				"casa",
+				"stanza"
+			]
+		},
+		{
+			"id": 144,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E5%A0%B4.html",
+			"kanji": "場",
+			"pronounces": [
+				"<b>ba</b>",
+				"<b>JŌ</b>"
+			],
+			"translations": [
+				"luogo",
+				"posto"
+			]
+		},
+		{
+			"id": 150,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E5%9B%B3.html",
+			"kanji": "図",
+			"pronounces": [
+				"<b>haka</b><i>ru</i>",
+				"<b>ZU</b>",
+				"<b>TO</b>"
+			],
+			"translations": [
+				"piano",
+				"diagramma",
+				"schema"
+			]
+		},
+		{
+			"id": 151,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E6%95%B0.html",
+			"kanji": "数",
+			"pronounces": [
+				"<b>kazu</b>",
+				"<b>kazo</b><i>eru</i>",
+				"<b>SŪ</b>",
+				"<b>SU</b>"
+			],
+			"translations": [
+				"numero",
+				"conteggio"
+			]
+		},
+		{
+			"id": 153,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E5%A3%B0.html",
+			"kanji": "声",
+			"pronounces": [
+				"<b>koe</b>",
+				"<b>SEI</b>",
+				"<b>SHŌ</b>"
+			],
+			"translations": [
+				"voce"
+			]
+		},
+		{
+			"id": 154,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E6%98%9F.html",
+			"kanji": "星",
+			"pronounces": [
+				"<b>hoshi</b>",
+				"<b>SEI</b>",
+				"<b>SHŌ</b>"
+			],
+			"translations": [
+				"stella"
+			]
+		},
+		{
+			"id": 156,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E5%88%87.html",
+			"kanji": "切",
+			"pronounces": [
+				"<b>ki</b><i>ru</i>",
+				"<b>SETSU</b>",
+				"<b>SAI</b>"
+			],
+			"translations": [
+				"tagliare"
+			]
+		},
+		{
+			"id": 162,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E8%8D%89.html",
+			"kanji": "草",
+			"pronounces": [
+				"<b>kusa</b>",
+				"<b>SŌ</b>"
+			],
+			"translations": [
+				"erba",
+				"pianta"
+			]
+		},
+		{
+			"id": 165,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E4%BD%93.html",
+			"kanji": "体",
+			"pronounces": [
+				"<b>karada</b>",
+				"<b>TAI</b>",
+				"<b>TEI</b>"
+			],
+			"translations": [
+				"corpo"
+			]
+		},
+		{
+			"id": 166,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E5%8F%B0.html",
+			"kanji": "台",
+			"pronounces": [
+				"<b>DAI</b>",
+				"<b>TAI</b>"
+			],
+			"translations": [
+				"piattaforma",
+				"supporto"
+			]
+		},
+		{
+			"id": 167,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E5%9C%B0.html",
+			"kanji": "地",
+			"pronounces": [
+				"<b>CHI</b>",
+				"<b>JI</b>"
+			],
+			"translations": [
+				"terra",
+				"terreno"
+			]
+		},
+		{
+			"id": 168,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E6%B1%A0.html",
+			"kanji": "池",
+			"pronounces": [
+				"<b>ike</b>",
+				"<b>CHI</b>"
+			],
+			"translations": [
+				"lago",
+				"stagno"
+			]
+		},
+		{
+			"id": 170,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E7%AB%B9.html",
+			"kanji": "竹",
+			"pronounces": [
+				"<b>take</b>",
+				"<b>CHIKU</b>"
+			],
+			"translations": [
+				"bambù"
+			]
+		},
+		{
+			"id": 183,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E5%BD%93.html",
+			"kanji": "当",
+			"pronounces": [
+				"<b>a</b><i>taru</i>",
+				"<b>TŌ</b>"
+			],
+			"translations": [
+				"colpire il bersaglio",
+				"esporre",
+				"davvero"
+			]
+		},
+		{
+			"id": 185,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E7%AD%94.html",
+			"kanji": "答",
+			"pronounces": [
+				"<b>kota</b><i>eru</i>",
+				"<b>TŌ</b>"
+			],
+			"translations": [
+				"rispondere",
+				"risposta"
+			]
+		},
+		{
+			"id": 186,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E9%A0%AD.html",
+			"kanji": "頭",
+			"pronounces": [
+				"<b>atama</b>",
+				"<b>kashira</b>",
+				"<b>TŌ</b>",
+				"<b>ZU</b>"
+			],
+			"translations": [
+				"testa",
+				"apice",
+				"un leader o capo"
+			]
+		},
+		{
+			"id": 204,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E6%96%B9.html",
+			"kanji": "方",
+			"pronounces": [
+				"<b>kata</b>",
+				"<b>HŌ</b>"
+			],
+			"translations": [
+				"modo",
+				"lato",
+				"direzione",
+				"persona"
+			]
+		},
+		{
+			"id": 209,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E9%B3%B4.html",
+			"kanji": "鳴",
+			"pronounces": [
+				"<b>na</b><i>ku</i>",
+				"<b>MEI</b>"
+			],
+			"translations": [
+				"grido non umano"
+			]
+		},
+		{
+			"id": 219,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E9%87%8C.html",
+			"kanji": "里",
+			"pronounces": [
+				"<b>sato</b>",
+				"<b>RI</b>"
+			],
+			"translations": [
+				"villaggio",
+				"misura di lunghezza (3",
+				"9 Km)"
+			]
+		},
+		{
+			"id": 220,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E7%90%86.html",
+			"kanji": "理",
+			"pronounces": [
+				"<b>RI</b>"
+			],
+			"translations": [
+				"ragione",
+				"razionale",
+				"giustizia"
+			]
+		},
+		{
+			"id": 227,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E8%82%B2.html",
+			"kanji": "育",
+			"pronounces": [
+				"<b>soda</b><i>tsu</i>",
+				"<b>IKU</b>"
+			],
+			"translations": [
+				"educare (nel senso di crescere)",
+				"sviluppare",
+				"crescere"
+			]
+		},
+		{
+			"id": 228,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E5%93%A1.html",
+			"kanji": "員",
+			"pronounces": [
+				"<b>IN</b>"
+			],
+			"translations": [
+				"membro",
+				"ufficiale",
+				"funzionario"
+			]
+		},
+		{
+			"id": 229,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E9%99%A2.html",
+			"kanji": "院",
+			"pronounces": [
+				"<b>IN</b>"
+			],
+			"translations": [
+				"istituto"
+			]
+		},
+		{
+			"id": 231,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E9%81%8B.html",
+			"kanji": "運",
+			"pronounces": [
+				"<b>hako</b><i>bu</i>",
+				"<b>UN</b>"
+			],
+			"translations": [
+				"trasportare",
+				"fortuna",
+				"caso"
+			]
+		},
+		{
+			"id": 234,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E5%9C%92.html",
+			"kanji": "園",
+			"pronounces": [
+				"<b>sono</b>",
+				"<b>EN</b>"
+			],
+			"translations": [
+				"giardino",
+				"parco"
+			]
+		},
+		{
+			"id": 235,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E6%A8%AA.html",
+			"kanji": "横",
+			"pronounces": [
+				"<b>yoko</b>",
+				"<b>Ō</b>"
+			],
+			"translations": [
+				"A sinistra un 木 albero",
+				"e 黄 destra gialla (insieme"
+			]
+		},
+		{
+			"id": 236,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E5%B1%8B.html",
+			"kanji": "屋",
+			"pronounces": [
+				"<b>ya</b>",
+				"<b>OKU</b>"
+			],
+			"translations": [
+				"casa",
+				"tetto",
+				"costruzione"
+			]
+		},
+		{
+			"id": 238,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E5%8C%96.html",
+			"kanji": "化",
+			"pronounces": [
+				"<b>ba</b><i>keru</i>",
+				"<b>KA</b>",
+				"<b>KE</b>"
+			],
+			"translations": [
+				"chimica",
+				"cambiamento",
+				"stregato"
+			]
+		},
+		{
+			"id": 239,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E8%8D%B7.html",
+			"kanji": "荷",
+			"pronounces": [
+				"<b>ni</b>",
+				"<b>KA</b>"
+			],
+			"translations": [
+				"carico",
+				"denaro",
+				"merci"
+			]
+		},
+		{
+			"id": 240,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E7%95%8C.html",
+			"kanji": "界",
+			"pronounces": [
+				"<b>KAI</b>"
+			],
+			"translations": [
+				"mondo",
+				"confine"
+			]
+		},
+		{
+			"id": 244,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E6%B4%BB.html",
+			"kanji": "活",
+			"pronounces": [
+				"<b>KATSU</b>"
+			],
+			"translations": [
+				"vitalità",
+				"attività"
+			]
+		},
+		{
+			"id": 246,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E6%84%9F.html",
+			"kanji": "感",
+			"pronounces": [
+				"<b>KAN</b>"
+			],
+			"translations": [
+				"sentimento",
+				"sensazione"
+			]
+		},
+		{
+			"id": 247,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E9%A4%A8.html",
+			"kanji": "館",
+			"pronounces": [
+				"<b>KAN</b>"
+			],
+			"translations": [
+				"dimora",
+				"palazzo",
+				"grande edificio"
+			]
+		},
+		{
+			"id": 248,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E5%B2%B8.html",
+			"kanji": "岸",
+			"pronounces": [
+				"<b>kishi</b>",
+				"<b>GAN</b>"
+			],
+			"translations": [
+				"costa",
+				"riva"
+			]
+		},
+		{
+			"id": 249,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E5%B2%A9.html",
+			"kanji": "岩",
+			"pronounces": [
+				"<b>iwa</b>",
+				"<b>GAN</b>"
+			],
+			"translations": [
+				"roccia",
+				"rupe"
+			]
+		},
+		{
+			"id": 253,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E7%A9%B6.html",
+			"kanji": "究",
+			"pronounces": [
+				"<b>kiwa</b><i>meru</i>",
+				"<b>KYŪ</b>"
+			],
+			"translations": [
+				"indagare",
+				"esaminare"
+			]
+		},
+		{
+			"id": 268,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E4%BF%82.html",
+			"kanji": "係",
+			"pronounces": [
+				"<b>kakari</b>",
+				"<b>KEI</b>"
+			],
+			"translations": [
+				"carica",
+				"dovere",
+				"coinvolgimento"
+			]
+		},
+		{
+			"id": 269,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E8%BB%BD.html",
+			"kanji": "軽",
+			"pronounces": [
+				"<b>karu</b><i>i</i>",
+				"<b>KEI</b>"
+			],
+			"translations": [
+				"leggero",
+				"facile",
+				"impertinente"
+			]
+		},
+		{
+			"id": 270,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E8%A1%80.html",
+			"kanji": "血",
+			"pronounces": [
+				"<b>chi</b>",
+				"<b>KETSU</b>"
+			],
+			"translations": [
+				"sangue"
+			]
+		},
+		{
+			"id": 295,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E5%BC%8F.html",
+			"kanji": "式",
+			"pronounces": [
+				"<b>SHIKI</b>"
+			],
+			"translations": [
+				"cerimonia",
+				"stile"
+			]
+		},
+		{
+			"id": 296,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E5%AE%9F.html",
+			"kanji": "実",
+			"pronounces": [
+				"<b>mi</b>",
+				"<b>mino</b><i>ru</i>",
+				"<b>JITSU</b>"
+			],
+			"translations": [
+				"verità",
+				"reale",
+				"frutto"
+			]
+		},
+		{
+			"id": 297,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E5%86%99.html",
+			"kanji": "写",
+			"pronounces": [
+				"<b>utsu</b><i>su</i>",
+				"<b>SHA</b>"
+			],
+			"translations": [
+				"copiare",
+				"riprodurre"
+			]
+		},
+		{
+			"id": 298,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E8%80%85.html",
+			"kanji": "者",
+			"pronounces": [
+				"<b>mono</b>",
+				"<b>SHA</b>"
+			],
+			"translations": [
+				"persona"
+			]
+		},
+		{
+			"id": 299,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E4%B8%BB.html",
+			"kanji": "主",
+			"pronounces": [
+				"<b>nushi</b>",
+				"<b>omo</b>",
+				"<b>SHU</b>"
+			],
+			"translations": [
+				"principale",
+				"proprietario"
+			]
+		},
+		{
+			"id": 300,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E5%AE%88.html",
+			"kanji": "守",
+			"pronounces": [
+				"<b>mamo</b><i>ru</i>",
+				"<b>SHU</b>",
+				"<b>SU</b>"
+			],
+			"translations": [
+				"proteggere",
+				"difendere"
+			]
+		},
+		{
+			"id": 301,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E5%8F%96.html",
+			"kanji": "取",
+			"pronounces": [
+				"<b>to</b><i>ru</i>",
+				"<b>SHU</b>"
+			],
+			"translations": [
+				"tenere",
+				"afferrare"
+			]
+		},
+		{
+			"id": 316,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E6%B6%88.html",
+			"kanji": "消",
+			"pronounces": [
+				"<b>ke</b><i>su</i>",
+				"<b>ki</b><i>eru</i>",
+				"<b>SHŌ</b>"
+			],
+			"translations": [
+				"estinguere",
+				"cancellare"
+			]
+		},
+		{
+			"id": 317,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E5%95%86.html",
+			"kanji": "商",
+			"pronounces": [
+				"<b>akina</b><i>u</i>",
+				"<b>SHŌ</b>"
+			],
+			"translations": [
+				"commerciare",
+				"commercio"
+			]
+		},
+		{
+			"id": 318,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E7%AB%A0.html",
+			"kanji": "章",
+			"pronounces": [
+				"<b>SHŌ</b>"
+			],
+			"translations": [
+				"distintivo",
+				"capitolo",
+				"emblema"
+			]
+		},
+		{
+			"id": 319,
+			"url": "https://www.kanji-trainer.org/Espediente_mnemonico/Mnemonico_%E5%8B%9D.html",
+			"kanji": "勝",
+			"pronounces": [
+				"<b>ka</b><i>tsu</i>",
+				"<b>masa</b><i>ru</i>",
+				"<b>SHŌ</b>"
+			],
+			"translations": [
+				"vincere",
+				"battere",
+				"superare"
+			]
+		}
+	]
+}
